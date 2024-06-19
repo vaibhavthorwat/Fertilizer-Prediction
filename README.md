@@ -9,7 +9,7 @@ Fertilizer prediction using Python involves preprocessing data on soil compositi
 3:fertilizer.pkl: Trained fertilizer recommendation model (to be generated).
 4:classifier.pkl: Trained classifier model (to be generated).
 5:requirement.txt: File containing the list of required Python libraries.
-6:Clone the Repository: git clone https://github.com/your-username/governance-at-your-door.git
+6:Clone the Repository: git clone https://github.com/vaibhavthorwat/Fertilizer-Prediction.git
 
 #Setup Instructions:
 1:Download and Install Required Libraries==>  pip install -r requirement.txt
